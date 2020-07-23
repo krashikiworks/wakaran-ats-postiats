@@ -1,2 +1,4 @@
-# wakaran-ats-postiats
-my problem about the ATS/Postiats
+# ATS/Postiats何も分からない
+
+ATS/Postiatsについて何か分かったことまとめ
+
