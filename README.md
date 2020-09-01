@@ -9,4 +9,7 @@ ATS/Postiats何も分からない人がなんとか調べて分かったこと�
 
 ## ライセンス
 
-Apache 2.0
+dual license:
+
+* MIT License
+* Apache 2.0
